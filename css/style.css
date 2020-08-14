@@ -74,6 +74,7 @@ body {
 .contact {
   margin-left: 331px;
 }
+
 .icon-contact:hover,
 .icon-contact:focus {
   fill: var(--accent-color);
@@ -214,8 +215,10 @@ address {
   margin-bottom: 20px;
 }
 footer {
-  background: #2f303a;
   margin: 0px;
+}
+.footer-bg {
+  background: #2f303a;
 }
 .footer-social-list {
   margin: 0px;
